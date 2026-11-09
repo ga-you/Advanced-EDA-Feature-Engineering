@@ -1,4 +1,4 @@
-# Data Science Project 1 — Advanced EDA & Feature Engineering
+# Advanced EDA & Feature Engineering
 
 Cleaned and engineered the Titanic dataset using statistical imputation, IQR-based outlier handling, feature engineering, one-hot encoding, multicollinearity removal, and Pandera schema validation.
 
